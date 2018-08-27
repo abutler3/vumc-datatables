@@ -1,0 +1,12 @@
+<?php
+/**
+ * Implements hook_page_attachments_alter().
+ */
+function vumc_datatables_page_attachments_alter(array &$attachments) {
+  // $attachments['#attached']['library'][] = '/css/datatables.min.css';
+  // $attachments['#attached']['library'][] = '/js/datatables.min.js';
+  // $attachments['#attached']['library'][] = '/js/custom.js';
+  $attachments['#attached']['library'][] = 'vumc_datatables/dataTable.admin';
+}
+
+?>

@@ -1,0 +1,18 @@
+{
+  "name": "abutler3/vumc-datatables",
+  "description": "VUMC Datatables to use with TableField",
+  "type": "drupal-custom-module",
+  "homepage": "https://github.com/abutler3/vumc-datatables",
+  "authors": [
+    {
+      "name": "VUMC Web Team",
+      "homepage": "https://vanderbilthealth.com",
+      "role": "Maintainer"
+    }
+  ],
+  "support": {},
+  "license": "GPL-2.0+",
+  "minimum-stability": "dev",
+  "extra": {}
+}
+

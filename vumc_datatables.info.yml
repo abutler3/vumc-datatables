@@ -1,0 +1,5 @@
+name: VUMC Datatables 1.10.15
+type: module
+description: For people who only need the DataTables JS library loaded with no database queries needed. Use with the TableField module.
+package: Custom
+core: 8.x

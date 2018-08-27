@@ -1,0 +1,10 @@
+dataTable.admin:
+  version: VERSION
+  css:
+    theme:
+      css/datatables.css: {}
+  js:
+    js/datatables.min.js: {}
+    js/custom.js: {}
+  dependencies:
+    - core/jquery
