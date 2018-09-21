@@ -3,6 +3,7 @@ dataTable.admin:
   css:
     theme:
       css/datatables.css: {}
+      css/stripe.css: {}
   js:
     js/datatables.min.js: {}
     js/custom.js: {}
